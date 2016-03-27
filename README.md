@@ -3,7 +3,7 @@ About mingwpy
 
 Home: https://github.com/mingwpy/mingw-builds
 
-Package license: 3-clause BSD
+Package license: BSD 3-clause
 
 Feedstock license: BSD
 
@@ -72,6 +72,11 @@ Current build status
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/mingwpy-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/mingwpy-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/mingwpy-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/mingwpy-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/mingwpy-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/mingwpy-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mingwpy/badges/version.svg)](https://anaconda.org/conda-forge/mingwpy)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mingwpy/badges/downloads.svg)](https://anaconda.org/conda-forge/mingwpy)
 
 
 Updating mingwpy-feedstock
