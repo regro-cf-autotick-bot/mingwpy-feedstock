@@ -5,7 +5,7 @@ Home: https://github.com/mingwpy/mingw-builds
 
 Package license: BSD 3-clause
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: GCC for Windows 64 & 32 bits
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/mingwpy-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/mingwpy-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/mingwpy-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/mingwpy-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/mingwpy-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/mingwpy-feedstock/branch/master)
