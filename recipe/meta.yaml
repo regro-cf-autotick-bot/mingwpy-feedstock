@@ -2,7 +2,7 @@ package:
     name: mingwpy
     version: 0.1.0
 
-source:
+source:                                                                                                # [win]
     url: https://anaconda.org/carlkl/mingwpy/0.1.0b3/download/mingwpy-0.1.0b3-cp34-none-win32.whl      # [py34 and win32]
     fn: mingwpy-0.1.0b3-cp34-none-win32.whl                                                            # [py34 and win32]
     sha256: f6b1236a6cb3dc15775c178844e18d2d8a43e2d7a1a4c7cefc683ff507967272                           # [py34 and win32]
